@@ -1,10 +1,10 @@
 # RepoAnalisis
-Se realizo la practica para ordenar la data para obtener los pasos solicitados con la data proporcionada.
+The practice was carried out to order the data to obtain the steps requested with the data provided.
 
-Fusiona los conjuntos de entrenamiento y prueba para crear un conjunto de datos.
-Extrae solo las medidas de la media y la desviación estándar de cada medida.
-Utiliza nombres de actividades descriptivos para nombrar las actividades en el conjunto de datos
-Etiqueta apropiadamente el conjunto de datos con nombres de variables descriptivos.
-A partir del conjunto de datos del paso 4, crea un segundo conjunto de datos ordenado e independiente con el promedio de cada variable para cada actividad y cada tema.
+Merge the training and test sets to create one data set.
+Extract only the measures from the mean and standard deviation of each measure.
+Use descriptive activity names to name the activities in the data set
+Appropriately label the dataset with descriptive variable names.
+From the data set from step 4, create a second independent, ordered data set with the average of each variable for each activity and each topic.
 
-Se han agregado comentarios para describir cada paso.
+Comments have been added to describe each step.
